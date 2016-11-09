@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  concern: MyString
+  miracle_concoction: MyString
+
+two:
+  title: MyString
+  concern: MyString
+  miracle_concoction: MyString
